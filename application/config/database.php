@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'learningskills_main',
-	'password' => '52p=mj^At.m5',
-	'database' => 'learningskills_main',
+	'username' => 'learningskills',
+	'password' => 'learningskills',
+	'database' => 'learningskills',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
